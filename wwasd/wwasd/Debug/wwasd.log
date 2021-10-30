@@ -1,0 +1,39 @@
+﻿生成启动时间为 2021/10/22 16:38:35。
+     1>项目“C:\Users\dell\Desktop\顾羽桥的C语言作业\wwasd\wwasd\wwasd.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\wwasd.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt wjjds.c
+         wjjds.c
+     1>c:\users\dell\desktop\顾羽桥的c语言作业\wwasd\wwasd\wjjds.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\dell\desktop\顾羽桥的c语言作业\wwasd\wwasd\wjjds.c(40): warning C4098: “ShowList”:“void”函数返回值
+     1>c:\users\dell\desktop\顾羽桥的c语言作业\wwasd\wwasd\wjjds.c(135): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\dell\desktop\顾羽桥的c语言作业\wwasd\wwasd\wjjds.c(138): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\dell\desktop\顾羽桥的c语言作业\wwasd\wwasd\wjjds.c(140): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\dell\desktop\顾羽桥的c语言作业\wwasd\wwasd\wjjds.c(142): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\dell\desktop\顾羽桥的c语言作业\wwasd\wwasd\wjjds.c(145): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dell\Desktop\顾羽桥的C语言作业\wwasd\Debug\wwasd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\wwasd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dell\Desktop\顾羽桥的C语言作业\wwasd\Debug\wwasd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dell\Desktop\顾羽桥的C语言作业\wwasd\Debug\wwasd.lib" /MACHINE:X86 Debug\wwasd.exe.embed.manifest.res
+         Debug\wjjds.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\wwasd.exe.embed.manifest" /manifest Debug\wwasd.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         wwasd.vcxproj -> C:\Users\dell\Desktop\顾羽桥的C语言作业\wwasd\Debug\wwasd.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\wwasd.unsuccessfulbuild”。
+         正在对“Debug\wwasd.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\dell\Desktop\顾羽桥的C语言作业\wwasd\wwasd\wwasd.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.86
